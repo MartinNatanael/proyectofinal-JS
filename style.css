@@ -1,0 +1,14 @@
+header, main {
+    background-color: #F8CADF;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+ .imagen-main{
+padding: 5%;
+ width: 60%;
+ filter: drop-shadow(8px 8px 12px rgba(0, 0, 0, 0.6));
+}
